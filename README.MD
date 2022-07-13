@@ -1,1 +1,1 @@
-practive python unal
+practice python unal
